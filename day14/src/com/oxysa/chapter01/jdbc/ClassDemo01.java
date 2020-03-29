@@ -11,6 +11,7 @@ import java.sql.Statement;
  * @author Yummy
  * @date 2020/3/29 13:23
  * 案例：JDBC的入门案例
+ * 单表操作：查询
  */
 public class ClassDemo01 {
     public static void main(String[] args) throws Exception {
